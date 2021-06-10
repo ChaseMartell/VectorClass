@@ -1,4 +1,4 @@
-//William Martell CS2370: Project 4
+//William Martell Project: Vector Class
 
 #include "Vector.h"
 #include <stdexcept>
